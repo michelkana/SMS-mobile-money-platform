@@ -1,0 +1,111 @@
+[Project ID]
+Signature=UE Proj: v.1
+[Project Information]
+Use Relative Directory=1
+Relative to Project File=1
+Project Start=D707060006001E000F002F003100000077
+Include Sub Directories=1
+Project Tagfile=
+Project Wordfile=
+Filter=
+Create Tagfile=0
+Working Time=111371
+[Group]
+0=smsmodule
+1=handybank
+2=smslib
+3=database
+4=onlinebanking
+[Files - smsmodule]
+0=smsmodule\Cryptograph.java
+1=smsmodule\LogAnalyser.java
+2=smsmodule\MessageFile.java
+3=smsmodule\MessagePool.java
+4=smsmodule\ReadMessage.java
+5=smsmodule\SendMessage.java
+[Files - database]
+0=database\SQLWrapper.java
+[Files - handybank]
+0=handybank\Request.java
+1=handybank\EBanking.java
+[Files - smslib]
+0=org\smslib\COutgoingMessage.java
+1=org\smslib\CService.java
+2=org\smslib\CIncomingMessage.java
+3=org\smslib\CMessage.java
+[Files - onlinebanking]
+0=onlinebanking\WebRequest.java
+[Folders]
+onlinebanking=1
+handybank=1
+smsmodule=1
+database=1
+smslib=1
+[Open Files]
+Open File0=C:\Documents and Settings\Michel\My Documents\Vision\Handy Bank\Code\SMSLib-Java-v2.1.4\src\java\handybank\Request.java
+Open File Pos0=1772
+Open File Line0=694
+Open File Window Pos0=0,1,-1,-1,-4,-30,88,116,980,655
+Open File1=C:\Documents and Settings\Michel\My Documents\Vision\Handy Bank\Code\SMSLib-Java-v2.1.4\src\java\handybank\EBanking.java
+Open File Pos1=2765
+Open File Line1=1255
+Open File Window Pos1=0,1,-1,-1,-4,-30,132,174,1028,717
+Open File2=C:\Documents and Settings\Michel\My Documents\Vision\Handy Bank\Code\SMSLib-Java-v2.1.4\src\java\org\smslib\CIncomingMessage.java
+Open File Pos2=3813
+Open File Line2=3527
+Open File Window Pos2=0,1,-1,-1,-4,-30,154,203,1050,746
+Open File3=C:\Documents and Settings\Michel\My Documents\Vision\Handy Bank\Code\SMSLib-Java-v2.1.4\build.properties
+Open File Pos3=278
+Open File Line3=0
+Open File Window Pos3=0,1,-1,-1,-4,-30,198,261,1094,804
+Open File4=C:\Documents and Settings\Michel\My Documents\Vision\Handy Bank\Code\SMSLib-Java-v2.1.4\web.xml
+Open File Pos4=1105
+Open File Line4=4329
+Open File Window Pos4=0,1,-1,-1,-4,-30,0,0,896,543
+Open File5=C:\Documents and Settings\Michel\My Documents\Vision\Handy Bank\Code\SMSLib-Java-v2.1.4\build.xml
+Open File Pos5=3536
+Open File Line5=1981
+Open File Window Pos5=0,1,-1,-1,-4,-30,22,29,918,572
+Open File6=C:\Documents and Settings\Michel\My Documents\Vision\Handy Bank\Code\SMSLib-Java-v2.1.4\src\java\onlinebanking\WebRequest.java
+Open File Pos6=1519
+Open File Line6=0
+Open File Window Pos6=0,1,-1,-1,-4,-30,66,87,962,630
+Open File7=C:\Documents and Settings\Michel\My Documents\Vision\Handy Bank\Code\SMSLib-Java-v2.1.4\src\java\smsmodule\Cryptograph.java
+Open File Pos7=142
+Open File Line7=0
+Open File Window Pos7=0,1,-1,-1,-4,-30,154,203,1050,746
+Open File8=C:\Documents and Settings\Michel\My Documents\Vision\Handy Bank\Code\SMSLib-Java-v2.1.4\src\java\database\SQLWrapper.java
+Active File Display Mode=3
+Active File Index=10
+Open File Pos8=0
+Open File Line8=0
+Open File Window Pos8=0,1,-1,-1,-4,-30,198,261,1094,804
+Open File9=C:\Documents and Settings\Michel\My Documents\Vision\Handy Bank\Code\SMSLib-Java-v2.1.4\src\java\handybank\PrepaidCardGenerator.java
+Open File Pos9=58
+Open File Line9=0
+Open File Window Pos9=0,1,-1,-1,-4,-30,66,87,962,630
+Open File10=C:\deliverables\README.txt
+Open File Pos10=0
+Open File Line10=413
+Open File Window Pos10=2,3,-1,-1,-4,-30,22,29,940,572
+Open File11=C:\Documents and Settings\Michel\My Documents\Vision\Handy Bank\deliverables\v0.1\README.txt
+Open File Pos11=3318
+Open File Line11=1431
+Open File Window Pos11=0,1,-1,-1,-4,-30,44,58,962,601
+Open File12=C:\Documents and Settings\Michel\My Documents\Vision\Handy Bank\deliverables\v0.1\config.txt
+Open File Pos12=177
+Open File Line12=0
+Open File Window Pos12=0,1,-1,-1,-4,-30,66,87,984,630
+Open File13=C:\Documents and Settings\Michel\My Documents\Vision\Handy Bank\Code\SMSLib-Java-v2.1.4\src\java\smsmodule\MessagePool.java
+Open File Pos13=450
+Open File Line13=49
+Open File Window Pos13=0,1,-1,-1,-4,-30,88,116,1006,659
+Open File14=C:\Documents and Settings\Michel\My Documents\Vision\Handy Bank\Code\SMSLib-Java-v2.1.4\src\java\smsmodule\SendMessage.java
+Open File Pos14=4034
+Open File Line14=2810
+Open File Window Pos14=0,1,-1,-1,-4,-30,110,145,1028,688
+Open File15=C:\Documents and Settings\Michel\My Documents\Vision\Handy Bank\Code\SMSLib-Java-v2.1.4\src\java\smsmodule\ReadMessage.java
+Open File Pos15=5181
+Open File Line15=4245
+Open File Window Pos15=0,1,-1,-1,-4,-30,132,174,1050,717
+Open File16=
