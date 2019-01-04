@@ -1,6 +1,6 @@
 # Peer-2-Peer Mobile Money Platform using SMS and simple phones
 
-This platform requires a GSM device connected on serial port. It receives and decodes SMS containing with payment instructions.  No internet needed.
+This platform requires a GSM device connected on serial port. It receives and decodes SMS containing payment instructions.  No internet needed.
 
 ![](architecture1.png)
 
